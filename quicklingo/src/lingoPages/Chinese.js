@@ -4,6 +4,7 @@ import './App.css';
 
 
 let arr = ['Mouth','Fire','Person','Tree','Mountain','Sun', 'Moon','Door','Woman','Roof','King','Water']
+let arr2 = ['Follow','Crowd','Big','Dog','Too Much','Everyone','Adult','Public','Wife','Bark','Angry','Woods','Forest','Rest','Volcano','Argument','Adultery','Queen']
   
   
 
